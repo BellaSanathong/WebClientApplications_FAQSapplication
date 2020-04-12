@@ -29,11 +29,11 @@ h2 {
     font-size: 120%;
 	padding: .25em 0 .25em 25px;
     cursor: pointer;
-    background: url(../img/plus.png) no-repeat left center;
+    background: url(plus.png) no-repeat left center;
 }
 
 h2.minus {
-    background: url(../img/minus.png) no-repeat left center;
+    background: url(minus.png) no-repeat left center;
 }
 
 div {
